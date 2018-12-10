@@ -1,0 +1,37 @@
+! Author: Beau Hastings <beausy@gmail.com>
+! Source: https://github.com/hastinbe/beau-theme
+
+*background: #000000
+*foreground: #d9d9d9
+ 
+! Black / Gray
+*color0: #000000
+*color8: #454545
+
+! Red / BrRed
+*color1:  #cf3032
+*color9:  #e28182
+
+! Green / BrGreen
+*color2:  #32cf30
+*color10: #82e281
+
+! Yellow / BrYellow
+*color3:  #cfcd30
+*color11: #e2e081
+
+! Blue / BrBlue
+*color4:  #3032cf
+*color12: #8182e2
+
+! Magenta / BrMagenta
+*color5:  #cd30cf
+*color13: #e081e2
+
+! Cyan / BrCyan
+*color6:  #30cfcd
+*color14: #81e2e0
+
+! Selection / Current Line
+*color7:  #d9d9d9
+*color15: #ffffff
