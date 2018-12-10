@@ -1,0 +1,5 @@
+[profiles]
+  [[beau]]
+    cursor_color = "#d9d9d9"
+    foreground_color = "#d9d9d9"
+    palette = "#000000:#cf3032:#32cf30:#cfcd30:#3032cf:#cd30cf:#30cfcd:#d9d9d9:#454545:#e28182:#82e281:#e2e081:#8182e2:#e081e2:#81e2e0:#ffffff"
